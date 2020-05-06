@@ -81,7 +81,7 @@ namespace MongoPrectise
     }
 
     internal class MongoDBConnection
-    {
+    { 
         private IMongoDatabase db;
         public MongoDBConnection(string database)
         {
